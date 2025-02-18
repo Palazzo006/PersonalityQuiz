@@ -1,1 +1,1 @@
-PersonalityQuiz developed using Swift langauage in iOS Xcode 
+PersonalityQuiz is a fun and engaging iOS app developed using Swift in Xcode. 
