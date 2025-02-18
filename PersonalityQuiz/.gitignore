@@ -1,0 +1,21 @@
+# Xcode
+xcuserdata/
+*.pbxuser
+*.mode1v3
+*.modev3
+*.perspectivev3
+DerivedData/
+
+# Build products
+build/
+*.app
+
+# CocoaPods
+**/Pods/*
+Podfile.lock
+
+# Crashlytics
+Crashlytics.framework
+
+# OS X temporary files
+.DS_Store
